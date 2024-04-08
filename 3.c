@@ -33,7 +33,7 @@ int main() {
                 else state = 6;
                 break;
             case 5:
-                if (s[i] == 'b') state = 4;
+                if (s[i] == 'b') state = 2;
                 else state = 6;
                 break;
             default:
